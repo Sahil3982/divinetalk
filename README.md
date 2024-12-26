@@ -1,8 +1,22 @@
-# React + Vite
+# DivineTalk
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Vite React application for [project purpose/description]. 
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these steps to clone and run the project locally:
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (version 16 or higher recommended)
+- A package manager (e.g., `npm` or `yarn`)
+- Git
+
+### Installation
+
+1. **Clone the Repository**  
+   Open a terminal and run:  
+   ```bash
+   git clone https://github.com/Sahil3982/divinetalk.git
